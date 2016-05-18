@@ -4,9 +4,9 @@ target 'ZWSToAppStore_Example' do
   pod 'ZWSToAppStore', :path => '../'
 
   target 'ZWSToAppStore_Tests' do
-    inherit! :search_paths
+  pod 'ZWSToAppStore', :path => '../'
 
-    pod 'Specta'
+  pod 'Specta'
   pod 'Expecta'
   pod 'FBSnapshotTestCase'
   pod 'Expecta+Snapshots'

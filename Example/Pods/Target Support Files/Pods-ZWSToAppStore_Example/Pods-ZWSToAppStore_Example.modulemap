@@ -1,0 +1,6 @@
+framework module Pods_ZWSToAppStore_Example {
+  umbrella header "Pods-ZWSToAppStore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

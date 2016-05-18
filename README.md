@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ZWSToAppStore.svg?style=flat)](http://cocoapods.org/pods/ZWSToAppStore)
 [![Platform](https://img.shields.io/cocoapods/p/ZWSToAppStore.svg?style=flat)](http://cocoapods.org/pods/ZWSToAppStore)
 
+app进行aso优化，引导用户到app store进行评论。采用系统默认的alert view，弹窗兼容UIAlertView和UIAlertViewController。
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

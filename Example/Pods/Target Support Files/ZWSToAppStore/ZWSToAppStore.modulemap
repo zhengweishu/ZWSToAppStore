@@ -1,0 +1,6 @@
+framework module ZWSToAppStore {
+  umbrella header "ZWSToAppStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
